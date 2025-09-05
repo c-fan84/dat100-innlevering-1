@@ -4,4 +4,4 @@ Oppgave O1: O1_Trinnskatt
 
 Oppgave O2: O2_Karakterskala
 
-Oppgave O3: 03_Fakultet
+Oppgave O3: O3_Fakultet
